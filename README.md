@@ -14,8 +14,8 @@ Intro course for bio-med people who want to get into ML-flavored Python. The cou
 
 ## Optimization
 
-- Exact. combinatorial & heuristic optimization
-- Python libraries for optimization problems
+- Exact and combinatorial optimization
+- Approximations and heuristics
 
 ## Images and natural language
 
