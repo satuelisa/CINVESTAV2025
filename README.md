@@ -12,7 +12,7 @@ Intro course for bio-med people who want to get into ML-flavored Python. The cou
 - Feature extraction and transformation
 - Classification and clustering
 
-## Optimization
+## [Day 3](https://github.com/satuelisa/CINVESTAV2025/blob/main/best.ipynb): Optimization
 
 - Exact and combinatorial optimization
 - Approximations and heuristics
