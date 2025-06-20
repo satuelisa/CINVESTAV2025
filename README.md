@@ -17,7 +17,7 @@ Intro course for bio-med people who want to get into ML-flavored Python. The cou
 - Exact and combinatorial optimization
 - Approximations and heuristics
 
-## Images and natural language
+## [Day 4](https://github.com/satuelisa/CINVESTAV2025/blob/main/appl.ipynb): Images and natural language
 
 - Image processing and computer vision
 - Natural language processing and LLMs
