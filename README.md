@@ -21,6 +21,7 @@ Intro course for bio-med people who want to get into ML-flavored Python. The cou
 
 - Image processing and computer vision
 - Natural language processing and LLMs
+- [Direct download link](https://colab.research.google.com/github/satuelisa/CINVESTAV2025/blob/main/appl.ipynb) for when colab integration to GitHub glitches
 
 ## [Day 5](https://github.com/satuelisa/CINVESTAV2025/blob/main/expl.ipynb): XAI and ethics
 
